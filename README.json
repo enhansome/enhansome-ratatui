@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/ratatui/ratatui/network/dependents",
+          "title": "ratatui/ratatui",
           "description": null,
           "children": [],
           "repo_info": {
@@ -15,12 +15,12 @@
             "last_commit": "2026-08-24T22:36:40Z",
             "owner": "ratatui",
             "repo": "ratatui",
-            "stars": 22364
+            "stars": 22362
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fdehau/tui-rs/network/dependents?package_id=UGFja2FnZS0zMjE3MzkzMDMx",
+          "title": "fdehau/tui-rs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -644,7 +644,7 @@
                 "last_commit": "2026-06-05T03:37:03Z",
                 "owner": "pyratatui",
                 "repo": "pyratatui",
-                "stars": 141
+                "stars": 142
               }
             },
             {
@@ -762,7 +762,7 @@
                 "last_commit": "2026-08-24T23:23:52Z",
                 "owner": "sxyazi",
                 "repo": "yazi",
-                "stars": 41646
+                "stars": 41655
               }
             },
             {
@@ -792,7 +792,7 @@
                 "last_commit": "2026-08-24T21:31:59Z",
                 "owner": "tracel-ai",
                 "repo": "burn",
-                "stars": 15811
+                "stars": 15812
               }
             },
             {
@@ -909,7 +909,7 @@
                 "archived": false,
                 "id": 1147866277,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:23:54Z",
+                "last_commit": "2026-08-25T04:37:06Z",
                 "owner": "GCWing",
                 "repo": "BitFun",
                 "stars": 1814
@@ -927,7 +927,7 @@
                 "last_commit": "2026-07-06T10:10:46Z",
                 "owner": "stakpak",
                 "repo": "agent",
-                "stars": 1748
+                "stars": 1749
               }
             },
             {
@@ -1017,7 +1017,7 @@
                 "last_commit": "2026-03-02T09:35:47Z",
                 "owner": "Cretezy",
                 "repo": "lazyjj",
-                "stars": 1196
+                "stars": 1197
               }
             },
             {
@@ -1059,7 +1059,7 @@
                 "archived": false,
                 "id": 1046809510,
                 "language": "Rust",
-                "last_commit": "2026-08-24T03:57:29Z",
+                "last_commit": "2026-08-25T03:39:58Z",
                 "owner": "vinhnx",
                 "repo": "VTCode",
                 "stars": 822
@@ -1149,7 +1149,7 @@
                 "archived": false,
                 "id": 1245333424,
                 "language": "Rust",
-                "last_commit": "2026-08-24T05:06:56Z",
+                "last_commit": "2026-08-25T04:59:36Z",
                 "owner": "IvanWng97",
                 "repo": "pixtuoid",
                 "stars": 452
@@ -1317,7 +1317,7 @@
                 "last_commit": "2026-08-21T10:14:14Z",
                 "owner": "yetidevworks",
                 "repo": "drydock",
-                "stars": 208
+                "stars": 209
               }
             },
             {
@@ -1497,7 +1497,7 @@
                 "last_commit": "2026-08-24T16:23:41Z",
                 "owner": "openma-ai",
                 "repo": "Martty",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -1877,6 +1877,21 @@
             },
             {
               "node_type": "item",
+              "title": "Forge",
+              "description": "An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1309066266,
+                "language": "Rust",
+                "last_commit": "2026-08-25T02:34:43Z",
+                "owner": "NorviaLabs",
+                "repo": "forge",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Reeve",
               "description": "A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways.",
               "children": [],
@@ -1888,21 +1903,6 @@
                 "owner": "Dancode-188",
                 "repo": "reeve",
                 "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Forge",
-              "description": "An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1309066266,
-                "language": "Rust",
-                "last_commit": "2026-08-25T02:34:43Z",
-                "owner": "NorviaLabs",
-                "repo": "forge",
-                "stars": 6
               }
             },
             {
@@ -1959,7 +1959,7 @@
                 "archived": false,
                 "id": 1341719656,
                 "language": "Rust",
-                "last_commit": "2026-08-24T18:56:17Z",
+                "last_commit": "2026-08-25T05:02:52Z",
                 "owner": "rootledev",
                 "repo": "rootle",
                 "stars": 2
@@ -1999,7 +1999,7 @@
                 "last_commit": "2026-08-19T09:37:40Z",
                 "owner": "unhappychoice",
                 "repo": "gittype",
-                "stars": 1573
+                "stars": 1574
               }
             },
             {
@@ -2516,7 +2516,7 @@
                 "last_commit": "2024-04-04T15:03:12Z",
                 "owner": "Rigellute",
                 "repo": "spotify-tui",
-                "stars": 19315
+                "stars": 19316
               }
             },
             {
@@ -2546,7 +2546,7 @@
                 "last_commit": "2026-08-21T11:10:51Z",
                 "owner": "mesamirh",
                 "repo": "MovieBox-Tui",
-                "stars": 1297
+                "stars": 1298
               }
             },
             {
@@ -2831,7 +2831,7 @@
                 "last_commit": "2026-08-24T09:49:20Z",
                 "owner": "yexiyue",
                 "repo": "TRNovel",
-                "stars": 62
+                "stars": 63
               }
             },
             {
@@ -3093,7 +3093,7 @@
                 "last_commit": "2026-08-24T00:11:36Z",
                 "owner": "localsend",
                 "repo": "localsend",
-                "stars": 89279
+                "stars": 89293
               }
             },
             {
@@ -3138,7 +3138,7 @@
                 "last_commit": "2026-08-01T01:34:33Z",
                 "owner": "imsnif",
                 "repo": "bandwhich",
-                "stars": 11917
+                "stars": 11918
               }
             },
             {
@@ -3183,7 +3183,7 @@
                 "last_commit": "2026-08-24T16:27:33Z",
                 "owner": "domcyrus",
                 "repo": "rustnet",
-                "stars": 4917
+                "stars": 4919
               }
             },
             {
@@ -3655,7 +3655,7 @@
                 "last_commit": "2026-08-25T02:53:56Z",
                 "owner": "atuinsh",
                 "repo": "atuin",
-                "stars": 31396
+                "stars": 31398
               }
             },
             {
@@ -3670,7 +3670,7 @@
                 "last_commit": "2026-08-16T10:56:46Z",
                 "owner": "alexpasmantier",
                 "repo": "television",
-                "stars": 6206
+                "stars": 6207
               }
             },
             {
@@ -3700,7 +3700,7 @@
                 "last_commit": "2026-07-31T12:15:08Z",
                 "owner": "medialab",
                 "repo": "xan",
-                "stars": 4481
+                "stars": 4482
               }
             },
             {
@@ -3730,7 +3730,7 @@
                 "last_commit": "2026-07-04T16:40:19Z",
                 "owner": "YS-L",
                 "repo": "csvlens",
-                "stars": 3939
+                "stars": 3940
               }
             },
             {
@@ -3895,7 +3895,7 @@
                 "last_commit": "2026-08-24T13:39:35Z",
                 "owner": "christo-auer",
                 "repo": "eilmeldung",
-                "stars": 940
+                "stars": 941
               }
             },
             {
@@ -4012,10 +4012,10 @@
                 "archived": false,
                 "id": 1130545281,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:48:19Z",
+                "last_commit": "2026-08-25T05:48:23Z",
                 "owner": "reyamira",
                 "repo": "models",
-                "stars": 496
+                "stars": 497
               }
             },
             {
@@ -4045,7 +4045,7 @@
                 "last_commit": "2026-06-11T17:34:33Z",
                 "owner": "bahdotsh",
                 "repo": "feedr",
-                "stars": 426
+                "stars": 427
               }
             },
             {
@@ -4165,7 +4165,7 @@
                 "last_commit": "2026-03-29T17:44:30Z",
                 "owner": "junkdog",
                 "repo": "exabind",
-                "stars": 294
+                "stars": 295
               }
             },
             {
@@ -4462,7 +4462,7 @@
                 "archived": false,
                 "id": 1073368386,
                 "language": "Rust",
-                "last_commit": "2026-08-24T21:03:07Z",
+                "last_commit": "2026-08-25T04:59:02Z",
                 "owner": "kanban-rs",
                 "repo": "kanban",
                 "stars": 158
@@ -4777,7 +4777,7 @@
                 "archived": false,
                 "id": 1205182325,
                 "language": "Rust",
-                "last_commit": "2026-08-24T19:35:19Z",
+                "last_commit": "2026-08-25T05:25:52Z",
                 "owner": "shadowmkj",
                 "repo": "leetrs",
                 "stars": 75
@@ -4795,7 +4795,7 @@
                 "last_commit": "2026-03-17T06:27:44Z",
                 "owner": "apatrushev",
                 "repo": "rdn",
-                "stars": 69
+                "stars": 74
               }
             },
             {
@@ -5317,6 +5317,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "concord",
+              "description": "A TUI client for Discord.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1233111215,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:15:14Z",
+                "owner": "chojs23",
+                "repo": "concord",
+                "stars": 1267
+              }
+            },
+            {
+              "node_type": "item",
               "title": "iamb",
               "description": "A matrix chat client with vim keybindings.",
               "children": [],
@@ -5328,21 +5343,6 @@
                 "owner": "ulyssa",
                 "repo": "iamb",
                 "stars": 1267
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "concord",
-              "description": "A TUI client for Discord.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1233111215,
-                "language": "Rust",
-                "last_commit": "2026-08-24T13:15:14Z",
-                "owner": "chojs23",
-                "repo": "concord",
-                "stars": 1265
               }
             },
             {
@@ -5499,7 +5499,7 @@
                 "last_commit": "2026-08-24T05:07:13Z",
                 "owner": "ClementTsang",
                 "repo": "bottom",
-                "stars": 13924
+                "stars": 13925
               }
             },
             {
@@ -5511,7 +5511,7 @@
                 "archived": false,
                 "id": 189215168,
                 "language": "Rust",
-                "last_commit": "2026-08-24T17:44:07Z",
+                "last_commit": "2026-08-25T05:24:38Z",
                 "owner": "Byron",
                 "repo": "dua-cli",
                 "stars": 6171
@@ -5526,10 +5526,10 @@
                 "archived": false,
                 "id": 342030057,
                 "language": "Rust",
-                "last_commit": "2026-08-17T09:15:46Z",
+                "last_commit": "2026-08-25T05:41:41Z",
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4810
+                "stars": 4809
               }
             },
             {
@@ -5604,7 +5604,7 @@
                 "last_commit": "2026-08-24T23:39:48Z",
                 "owner": "ifd3f",
                 "repo": "caligula",
-                "stars": 2237
+                "stars": 2238
               }
             },
             {
@@ -6425,7 +6425,7 @@
                 "archived": false,
                 "id": 360387162,
                 "language": "Rust",
-                "last_commit": "2026-07-04T01:33:11Z",
+                "last_commit": "2026-08-25T04:54:15Z",
                 "owner": "mlb-rs",
                 "repo": "mlbt",
                 "stars": 158
@@ -6681,7 +6681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:08:46.287Z",
+    "last_updated": "2026-08-25T05:59:30.006Z",
     "original_repository": "ratatui/awesome-ratatui",
     "original_repository_id": 728348481,
     "original_repository_sha": "7d3970c268c23488ac3616093392f7a128c0df11",
