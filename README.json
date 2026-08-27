@@ -762,7 +762,7 @@
                 "last_commit": "2026-08-26T18:52:38Z",
                 "owner": "sxyazi",
                 "repo": "yazi",
-                "stars": 41719
+                "stars": 41720
               }
             },
             {
@@ -909,7 +909,7 @@
                 "archived": false,
                 "id": 1147866277,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:49:56Z",
+                "last_commit": "2026-08-27T12:16:52Z",
                 "owner": "GCWing",
                 "repo": "BitFun",
                 "stars": 1820
@@ -1059,7 +1059,7 @@
                 "archived": false,
                 "id": 1046809510,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:09:42Z",
+                "last_commit": "2026-08-27T12:20:32Z",
                 "owner": "vinhnx",
                 "repo": "VTCode",
                 "stars": 824
@@ -1359,7 +1359,7 @@
                 "archived": false,
                 "id": 1242368753,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:27:17Z",
+                "last_commit": "2026-08-27T12:16:50Z",
                 "owner": "kbrdn1",
                 "repo": "gwm-cli",
                 "stars": 133
@@ -1539,7 +1539,7 @@
                 "archived": false,
                 "id": 1156394315,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:48:11Z",
+                "last_commit": "2026-08-27T12:28:51Z",
                 "owner": "Thurbeen",
                 "repo": "thurbox",
                 "stars": 49
@@ -1959,7 +1959,7 @@
                 "archived": false,
                 "id": 1341719656,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:50:12Z",
+                "last_commit": "2026-08-27T12:33:07Z",
                 "owner": "rootledev",
                 "repo": "rootle",
                 "stars": 2
@@ -3093,7 +3093,7 @@
                 "last_commit": "2026-08-24T00:11:36Z",
                 "owner": "localsend",
                 "repo": "localsend",
-                "stars": 89493
+                "stars": 89495
               }
             },
             {
@@ -3105,10 +3105,10 @@
                 "archived": false,
                 "id": 146327667,
                 "language": "Rust",
-                "last_commit": "2026-08-27T01:18:06Z",
+                "last_commit": "2026-08-27T12:19:21Z",
                 "owner": "vectordotdev",
                 "repo": "vector",
-                "stars": 22465
+                "stars": 22466
               }
             },
             {
@@ -3168,7 +3168,7 @@
                 "last_commit": "2026-08-27T02:53:17Z",
                 "owner": "fujiapple852",
                 "repo": "trippy",
-                "stars": 7541
+                "stars": 7544
               }
             },
             {
@@ -3608,21 +3608,6 @@
             },
             {
               "node_type": "item",
-              "title": "yscan",
-              "description": "A TUI-first network scanner with ARP, mDNS, and SSDP discovery.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1168011301,
-                "language": "Rust",
-                "last_commit": "2026-08-04T15:44:13Z",
-                "owner": "yetidevworks",
-                "repo": "yscan",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
               "title": "streamtop",
               "description": "Terminal-based diagnostic and validation tool for live HLS, DASH, and IPTV streams.",
               "children": [],
@@ -3633,6 +3618,21 @@
                 "last_commit": "2026-08-26T22:20:39Z",
                 "owner": "Jorji49",
                 "repo": "streamtop",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yscan",
+              "description": "A TUI-first network scanner with ARP, mDNS, and SSDP discovery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168011301,
+                "language": "Rust",
+                "last_commit": "2026-08-04T15:44:13Z",
+                "owner": "yetidevworks",
+                "repo": "yscan",
                 "stars": 7
               }
             },
@@ -3670,7 +3670,7 @@
                 "last_commit": "2026-08-27T03:17:38Z",
                 "owner": "atuinsh",
                 "repo": "atuin",
-                "stars": 31436
+                "stars": 31437
               }
             },
             {
@@ -3715,7 +3715,7 @@
                 "last_commit": "2026-07-31T12:15:08Z",
                 "owner": "medialab",
                 "repo": "xan",
-                "stars": 4484
+                "stars": 4485
               }
             },
             {
@@ -4000,7 +4000,7 @@
                 "last_commit": "2026-08-25T13:25:49Z",
                 "owner": "Linus-Mussmaecher",
                 "repo": "rucola",
-                "stars": 524
+                "stars": 525
               }
             },
             {
@@ -4027,7 +4027,7 @@
                 "archived": false,
                 "id": 1130545281,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:48:39Z",
+                "last_commit": "2026-08-27T12:18:25Z",
                 "owner": "reyamira",
                 "repo": "models",
                 "stars": 500
@@ -4885,7 +4885,7 @@
                 "last_commit": "2026-08-19T10:50:30Z",
                 "owner": "nico2sh",
                 "repo": "kimun",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -5354,7 +5354,7 @@
                 "archived": false,
                 "id": 1233111215,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:23:40Z",
+                "last_commit": "2026-08-27T12:44:14Z",
                 "owner": "chojs23",
                 "repo": "concord",
                 "stars": 1275
@@ -5529,7 +5529,7 @@
                 "last_commit": "2026-08-27T10:40:03Z",
                 "owner": "ClementTsang",
                 "repo": "bottom",
-                "stars": 13942
+                "stars": 13943
               }
             },
             {
@@ -6726,7 +6726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:22.592Z",
+    "last_updated": "2026-08-27T12:44:25.534Z",
     "original_repository_info": {
       "archived": false,
       "id": 728348481,
