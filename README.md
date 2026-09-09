@@ -27,7 +27,7 @@ Here you will find a list of TUI crates and applications that are made for or us
 
 Aside from those listed here, many other apps and libraries can be easily be found via the reverse dependencies on crates.io and GitHub:
 
-* <https://github.com/ratatui/ratatui/network/dependents> ⭐ 22,525 | 🐛 219 | 🌐 Rust | 📅 2026-09-07
+* <https://github.com/ratatui/ratatui/network/dependents> ⭐ 22,531 | 🐛 219 | 🌐 Rust | 📅 2026-09-07
 * <https://github.com/fdehau/tui-rs/network/dependents?package_id=UGFja2FnZS0zMjE3MzkzMDMx> ⚠️ Archived
 * <https://crates.io/crates/ratatui/reverse_dependencies>
 * <https://crates.io/crates/tui/reverse_dependencies>
@@ -41,14 +41,14 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [bevy\_ratatui\_camera](https://github.com/cxreiff/bevy_ratatui_camera) ⭐ 339 | 🐛 2 | 🌐 Rust | 📅 2025-11-17 - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 * [egui-ratatui](https://github.com/gold-silver-copper/egui_ratatui) ⭐ 209 | 🐛 4 | 🌐 Rust | 📅 2026-04-16 - A ratatui backend that is also an egui widget. Deploy on web with WebAssembly or ship natively with bevy, macroquad, or eframe.
 * [ratatuefi](https://github.com/sermuns/ratatuefi) ⭐ 165 | 🐛 0 | 🌐 Rust | 📅 2026-07-06 - Another library providing a ratatui backend for UEFI environments.
-* [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) ⭐ 130 | 🐛 5 | 🌐 Rust | 📅 2026-08-06 - A wgpu based rendering backend for ratatui.
-* [webatui](https://github.com/TylerBloom/webatui) ⭐ 128 | 🐛 4 | 🌐 Rust | 📅 2024-09-30 - An integration between the Yew and Ratatui crates for making TUI-themed WebAssembly webapps.
+* [ratatui-wgpu](https://github.com/Jesterhearts/ratatui-wgpu) ⭐ 132 | 🐛 5 | 🌐 Rust | 📅 2026-08-06 - A wgpu based rendering backend for ratatui.
+* [webatui](https://github.com/TylerBloom/webatui) ⭐ 129 | 🐛 4 | 🌐 Rust | 📅 2024-09-30 - An integration between the Yew and Ratatui crates for making TUI-themed WebAssembly webapps.
 * [soft\_ratatui](https://github.com/gold-silver-copper/soft_ratatui) ⭐ 105 | 🐛 0 | 🌐 Rust | 📅 2026-04-23 - A software rendering backend for ratatui. No GPU required. TUI everywhere.
 * [ratatui-uefi](https://github.com/reubeno/tui-uefi) ⭐ 100 | 🐛 3 | 🌐 Rust | 📅 2026-08-31 - A ratatui backend for use in UEFI environments.
 * [schemaui](https://github.com/YuniqueUnic/schemaui) ⭐ 89 | 🐛 4 | 🌐 Rust | 📅 2026-09-07 - Turn JSON Schemas into TUIs and web UIs with real-time validation.
 * [rat-salsa](https://github.com/thscharler/rat-salsa) ⭐ 64 | 🐛 5 | 🌐 Rust | 📅 2026-07-03 - An event-queue for ratatui with tasks, timers, application events, focus handling, dialog windows.
 * [raclettui](https://github.com/ishrut/raclettui) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2026-07-29 - A wayland layer shell window implementing the ratatui backend with cpu and wgpu rendering.
-* [ratatui-kit](https://github.com/yexiyue/ratatui-kit) ⭐ 42 | 🐛 0 | 🌐 Rust | 📅 2026-07-16 - A React-style component framework for Ratatui with hooks, routing, async state, input layers, and reusable components.
+* [ratatui-kit](https://github.com/yexiyue/ratatui-kit) ⭐ 42 | 🐛 1 | 🌐 Rust | 📅 2026-07-16 - A React-style component framework for Ratatui with hooks, routing, async state, input layers, and reusable components.
 * [crepuscularity](https://github.com/tschk/crepuscularity) ⭐ 39 | 🐛 11 | 🌐 Rust | 📅 2026-09-08 - One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included.
 * [dumo](https://github.com/iddey/dumo) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-03-31 - An embedded-graphics backend that is built on [mplusfonts](https://github.com/iddey/mplusfonts) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-03-31 and has kanji support.
 * [xnano](https://github.com/hsaeed3/xnano) ⭐ 17 | 🐛 6 | 🌐 Python | 📅 2026-09-02 - A declarative terminal framework for Python built on ratatui & ratzilla.
@@ -66,7 +66,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) ⭐ 94 | 🐛 3 | 🌐 Rust | 📅 2026-03-06 - A simple library for creating file explorer for ratatui.
 * [tui-rain](https://github.com/levilutz/tui-rain) ⭐ 80 | 🐛 4 | 🌐 Rust | 📅 2024-11-30 - A widget to generate various rain effects.
 * [tui-menu](https://github.com/shuoli84/tui-menu) ⭐ 56 | 🐛 2 | 🌐 Rust | 📅 2025-12-30 - A menu widget for ratatui ecosystem.
-* [ratatui-markdown](https://github.com/celestia-island/ratatui-markdown) ⭐ 46 | 🐛 4 | 🌐 Rust | 📅 2026-09-04 - A Rust library providing markdown rendering, Mermaid diagrams, syntax highlighting, collapsible JSON/TOML tree views, and a rich hybrid scroll system.
+* [ratatui-markdown](https://github.com/celestia-island/ratatui-markdown) ⭐ 46 | 🐛 5 | 🌐 Rust | 📅 2026-09-04 - A Rust library providing markdown rendering, Mermaid diagrams, syntax highlighting, collapsible JSON/TOML tree views, and a rich hybrid scroll system.
 * [term-rustdoc](https://github.com/zjp-CN/term-rustdoc) ⭐ 34 | 🐛 16 | 🌐 Rust | 📅 2025-04-20 - A TUI for Rust docs that aims to improve the UX on tree view and generic code.
 * [tui-popup](https://github.com/joshka/tui-popup) ⚠️ Archived - A Popup widget for Ratatui.
 * [tui-shimmer](https://github.com/vinhnx/tui-shimmer) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-06-06 - Shimmer text effect for Ratatui.
@@ -105,8 +105,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🔧 Utilities
 
-* [tachyonfx](https://github.com/junkdog/tachyonfx) ⭐ 1,293 | 🐛 7 | 🌐 Rust | 📅 2026-09-06 - A shader-like effects library for ratatui.
-* [bevy\_ratatui](https://github.com/joshka/bevy_ratatui) ⭐ 168 | 🐛 9 | 🌐 Rust | 📅 2026-08-18 - A Rust crate to use Ratatui in a Bevy App.
+* [tachyonfx](https://github.com/junkdog/tachyonfx) ⭐ 1,294 | 🐛 7 | 🌐 Rust | 📅 2026-09-06 - A shader-like effects library for ratatui.
+* [bevy\_ratatui](https://github.com/joshka/bevy_ratatui) ⭐ 167 | 🐛 9 | 🌐 Rust | 📅 2026-08-18 - A Rust crate to use Ratatui in a Bevy App.
 * [ratatui-garnish](https://github.com/franklaranja/ratatui-garnish) ⭐ 48 | 🐛 0 | 🌐 Rust | 📅 2025-10-14 - A powerful composition system for Ratatui widgets.
 * [ratatui-interact](https://github.com/Brainwires/ratatui-interact) ⭐ 38 | 🐛 1 | 🌐 Rust | 📅 2026-04-02 - Interactive TUI components for Ratatui with focus management and mouse support.
 * [ratatui-macros](https://github.com/kdheepak/ratatui-macros) ⚠️ Archived - Macros for simplifying boilerplate for creating UI using Ratatui.
@@ -125,8 +125,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🔗 Bindings
 
 * [jatatui](https://github.com/oyvindberg/jatatui) ⭐ 286 | 🐛 1 | 🌐 Java | 📅 2026-08-22 - A Java port of ratatui.
-* [pyratatui](https://github.com/pyratatui/pyratatui) ⭐ 144 | 🐛 1 | 🌐 Rust | 📅 2026-06-05 - Python bindings to ratatui, powered by Maturin and PyO3.
-* [ex\_ratatui](https://github.com/mcass19/ex_ratatui) ⭐ 113 | 🐛 2 | 🌐 Elixir | 📅 2026-09-07 - Elixir bindings for ratatui.
+* [pyratatui](https://github.com/pyratatui/pyratatui) ⭐ 145 | 🐛 1 | 🌐 Rust | 📅 2026-06-05 - Python bindings to ratatui, powered by Maturin and PyO3.
+* [ex\_ratatui](https://github.com/mcass19/ex_ratatui) ⭐ 114 | 🐛 2 | 🌐 Elixir | 📅 2026-09-07 - Elixir bindings for ratatui.
 * [ratatui-ffi](https://github.com/holo-q/ratatui-ffi) ⭐ 54 | 🐛 2 | 🌐 Rust | 📅 2026-06-04 - FFI bindings for ratatui.
 * [ratatui-py](https://github.com/holo-q/ratatui-py) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-06-04 - Python bindings for ratatui.
 * [Ratatui.cs](https://github.com/holo-q/Ratatui.cs) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-06-04 - C# bindings for ratatui.
@@ -138,72 +138,72 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### ⌨️ Development Tools
 
-* [Yazi](https://github.com/sxyazi/yazi) ⭐ 42,040 | 🐛 72 | 🌐 Rust | 📅 2026-09-08 - Blazing fast terminal file manager written in Rust, based on async I/O.
+* [Yazi](https://github.com/sxyazi/yazi) ⭐ 42,067 | 🐛 71 | 🌐 Rust | 📅 2026-09-09 - Blazing fast terminal file manager written in Rust, based on async I/O.
 * [gitui](https://github.com/extrawurst/gitui) ⭐ 22,471 | 🐛 344 | 🌐 Rust | 📅 2026-08-04 - Terminal UI for Git.
-* [burn](https://github.com/burn-rs/burn) ⭐ 15,884 | 🐛 307 | 🌐 Rust | 📅 2026-09-07 - Comprehensive Deep Learning framework in Rust.
+* [burn](https://github.com/burn-rs/burn) ⭐ 15,887 | 🐛 322 | 🌐 Rust | 📅 2026-09-08 - Comprehensive Deep Learning framework in Rust.
 * [rainfrog](https://github.com/achristmascarl/rainfrog) ⭐ 5,323 | 🐛 14 | 🌐 Rust | 📅 2026-08-25 - A database management TUI for Postgres.
 * [joshuto](https://github.com/kamiyaa/joshuto) ⭐ 3,723 | 🐛 102 | 🌐 Rust | 📅 2026-08-20 - Ranger-like terminal file manager written in Rust.
-* [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,718 | 🐛 20 | 🌐 Rust | 📅 2026-09-03 - A feature-full TUI API client for your terminal.
+* [ATAC](https://github.com/Julien-cpsn/ATAC) ⭐ 3,719 | 🐛 20 | 🌐 Rust | 📅 2026-09-03 - A feature-full TUI API client for your terminal.
 * [gobang](https://github.com/TaKO8Ki/gobang) ⭐ 3,317 | 🐛 57 | 🌐 Rust | 📅 2023-11-10 - Cross-platform TUI database management tool.
-* [wrkflw](https://github.com/bahdotsh/wrkflw) ⭐ 3,312 | 🐛 13 | 🌐 Rust | 📅 2026-07-03 - A TUI for validating and executing GitHub Actions workflows locally.
-* [gitu](https://github.com/altsem/gitu) ⭐ 2,906 | 🐛 60 | 🌐 Rust | 📅 2026-08-22 - A TUI Git client inspired by Magit.
-* [BitFun](https://github.com/GCWing/BitFun) ⭐ 2,099 | 🐛 85 | 🌐 Rust | 📅 2026-09-08 - An AI coding agent.
-* [serie](https://github.com/lusingander/serie) ⭐ 2,087 | 🐛 24 | 🌐 Rust | 📅 2026-09-08 - A rich Git commit graph in your terminal.
-* [Stakpak](https://github.com/stakpak/agent) ⭐ 1,775 | 🐛 41 | 🌐 Rust | 📅 2026-07-06 - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
-* [BugStalker](https://github.com/godzie44/BugStalker) ⭐ 1,392 | 🐛 15 | 🌐 Rust | 📅 2026-08-22 - Modern rust debugger for Linux x86-64.
-* [openapi-tui](https://github.com/zaghaghi/openapi-tui) ⭐ 1,323 | 🐛 9 | 🌐 Rust | 📅 2026-05-14 - Terminal UI to list, browse and run APIs defined with openapi spec.
+* [wrkflw](https://github.com/bahdotsh/wrkflw) ⭐ 3,313 | 🐛 13 | 🌐 Rust | 📅 2026-09-08 - A TUI for validating and executing GitHub Actions workflows locally.
+* [gitu](https://github.com/altsem/gitu) ⭐ 2,907 | 🐛 60 | 🌐 Rust | 📅 2026-08-22 - A TUI Git client inspired by Magit.
+* [BitFun](https://github.com/GCWing/BitFun) ⭐ 2,108 | 🐛 79 | 🌐 Rust | 📅 2026-09-09 - An AI coding agent.
+* [serie](https://github.com/lusingander/serie) ⭐ 2,088 | 🐛 24 | 🌐 Rust | 📅 2026-09-08 - A rich Git commit graph in your terminal.
+* [Stakpak](https://github.com/stakpak/agent) ⭐ 1,777 | 🐛 41 | 🌐 Rust | 📅 2026-07-06 - AI DevOps agent to help you secure, deploy, and maintain production-ready infrastructure.
+* [BugStalker](https://github.com/godzie44/BugStalker) ⭐ 1,397 | 🐛 15 | 🌐 Rust | 📅 2026-08-22 - Modern rust debugger for Linux x86-64.
+* [openapi-tui](https://github.com/zaghaghi/openapi-tui) ⭐ 1,322 | 🐛 9 | 🌐 Rust | 📅 2026-05-14 - Terminal UI to list, browse and run APIs defined with openapi spec.
 * [scooter](https://github.com/thomasschafer/scooter) ⭐ 1,291 | 🐛 18 | 🌐 Rust | 📅 2026-09-05 - Interactive find and replace in the terminal.
 * [slumber](https://github.com/LucasPickering/slumber) ⭐ 1,226 | 🐛 9 | 🌐 Rust | 📅 2026-09-02 - Terminal-based HTTP/REST client.
 * [desed](https://github.com/SoptikHa2/desed) ⭐ 1,218 | 🐛 7 | 🌐 Rust | 📅 2026-05-16 - Debugging tool for sed scripts.
 * [lazyjj](https://github.com/Cretezy/lazyjj) ⭐ 1,207 | 🐛 46 | 🌐 Rust | 📅 2026-03-02 - TUI for the Jujutsu/jj VCS.
-* [opencrabs](https://github.com/adolfousier/opencrabs) ⭐ 930 | 🐛 11 | 🌐 Rust | 📅 2026-09-08 - Open-claw inspired orchestration layer for software development.
+* [opencrabs](https://github.com/adolfousier/opencrabs) ⭐ 930 | 🐛 16 | 🌐 Rust | 📅 2026-09-09 - Open-claw inspired orchestration layer for software development.
 * [Serpl](https://github.com/yassinebridi/serpl) ⭐ 856 | 🐛 22 | 🌐 Rust | 📅 2026-05-31 - A simple terminal UI for search and replace, ala VS Code.
-* [VT Code](https://github.com/vinhnx/vtcode) ⭐ 834 | 🐛 1 | 🌐 Rust | 📅 2026-09-07 - A Semantic Coding Agent.
-* [Oatmeal](https://github.com/dustinblackman/oatmeal) ⭐ 772 | 🐛 31 | 🌐 Rust | 📅 2024-06-01 - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
+* [VT Code](https://github.com/vinhnx/vtcode) ⭐ 835 | 🐛 1 | 🌐 Rust | 📅 2026-09-08 - A Semantic Coding Agent.
+* [Oatmeal](https://github.com/dustinblackman/oatmeal) ⭐ 771 | 🐛 31 | 🌐 Rust | 📅 2024-06-01 - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 * [Maelstrom](https://github.com/maelstrom-software/maelstrom) ⭐ 734 | 🐛 190 | 🌐 Rust | 📅 2025-04-23 - A fast test runner that runs every test in its own container locally or distributed.
 * [tenere](https://github.com/pythops/tenere) ⭐ 682 | 🐛 11 | 🌐 Rust | 📅 2026-05-10 - TUI interface for LLMs written in Rust.
-* [Surfpool](https://github.com/solana-foundation/surfpool) ⭐ 598 | 🐛 56 | 🌐 Rust | 📅 2026-09-05 - A local-first Solana development environment with mainnet state, infrastructure as code and transaction debugging.
+* [Surfpool](https://github.com/solana-foundation/surfpool) ⭐ 599 | 🐛 56 | 🌐 Rust | 📅 2026-09-05 - A local-first Solana development environment with mainnet state, infrastructure as code and transaction debugging.
 * [repgrep](https://github.com/acheronfail/repgrep) ⭐ 530 | 🐛 1 | 🌐 Rust | 📅 2026-09-02 - An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 * [patent](https://github.com/r14dd/patent) ⭐ 525 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A prior-art search for devtool ideas.
   LLM verdict.
-* [pixtuoid](https://github.com/IvanWng97/pixtuoid) ⭐ 472 | 🐛 11 | 🌐 Rust | 📅 2026-09-07 - Live pixel-art office for AI coding agents.
+* [pixtuoid](https://github.com/IvanWng97/pixtuoid) ⭐ 474 | 🐛 11 | 🌐 Rust | 📅 2026-09-09 - Live pixel-art office for AI coding agents.
 * [tracexec](https://github.com/kxxt/tracexec) ⭐ 438 | 🐛 27 | 🌐 Rust | 📅 2026-09-07 - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 * [Yozefu](https://github.com/MAIF/yozefu/) ⭐ 344 | 🐛 6 | 🌐 Rust | 📅 2026-08-27 - A TUI for exploring data of a Kafka cluster.
-* [sabiql](https://github.com/riii111/sabiql) ⭐ 302 | 🐛 7 | 🌐 Rust | 📅 2026-09-08 - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.
-* [drydock](https://github.com/yetidevworks/drydock) ⭐ 287 | 🐛 0 | 🌐 Rust | 📅 2026-09-03 - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
+* [sabiql](https://github.com/riii111/sabiql) ⭐ 302 | 🐛 7 | 🌐 Rust | 📅 2026-09-09 - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.
+* [drydock](https://github.com/yetidevworks/drydock) ⭐ 289 | 🐛 1 | 🌐 Rust | 📅 2026-09-03 - A live dashboard for a fleet of Git repos, showing what's uncommitted, unpushed, and unreleased across all of them.
 * [giff](https://github.com/bahdotsh/giff) ⭐ 274 | 🐛 8 | 🌐 Rust | 📅 2026-04-23 - A TUI for Git diffs with interactive rebase support.
 * [glim](https://github.com/junkdog/glim) ⭐ 234 | 🐛 16 | 🌐 Rust | 📅 2025-10-13 - Monitor GitLab CI/CD pipelines and projects with style.
 * [deadbranch](https://github.com/armgabrielyan/deadbranch) ⭐ 231 | 🐛 2 | 🌐 Rust | 📅 2026-03-30 - A TUI for cleaning stale Git branches safely.
 * [FileSSH](https://github.com/JayanAXHF/filessh) ⭐ 230 | 🐛 3 | 🌐 Rust | 📅 2026-07-25 - A TUI-based file explorer for remote servers.
-* [llmtrim](https://github.com/fkiene/llmtrim) ⭐ 228 | 🐛 12 | 🌐 Rust | 📅 2026-09-01 - Local proxy that compresses LLM API requests to cut token cost, with a tabbed status dashboard for per-source cost and context use.
+* [llmtrim](https://github.com/fkiene/llmtrim) ⭐ 229 | 🐛 11 | 🌐 Rust | 📅 2026-09-08 - Local proxy that compresses LLM API requests to cut token cost, with a tabbed status dashboard for per-source cost and context use.
 * [TermiRs](https://github.com/caelansar/termirs) ⭐ 223 | 🐛 1 | 🌐 Rust | 📅 2026-06-08 - A modern, async SSH terminal client.
 * [claudectl](https://github.com/mercurialsolo/claudectl) ⭐ 198 | 🐛 63 | 🌐 Rust | 📅 2026-07-10 - Mission control for multiple Claude Code sessions with live dashboard, cost tracking, and budget enforcement.
-* [toktop](https://github.com/htin1/toktop) ⭐ 173 | 🐛 5 | 🌐 Rust | 📅 2025-12-07 - A LLM usage monitor in terminal.
-* [gwm](https://github.com/kbrdn1/gwm-cli) ⭐ 132 | 🐛 20 | 🌐 Rust | 📅 2026-09-07 - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
-* [rat-commander](https://github.com/dividebysandwich/rat-commander) ⭐ 90 | 🐛 1 | 🌐 Rust | 📅 2026-09-03 - A fully-featured modern spiritual successor to Midnight-Commander with truecolor support and built-in process- and disk-explorer.
+* [toktop](https://github.com/htin1/toktop) ⭐ 174 | 🐛 5 | 🌐 Rust | 📅 2025-12-07 - A LLM usage monitor in terminal.
+* [gwm](https://github.com/kbrdn1/gwm-cli) ⭐ 133 | 🐛 20 | 🌐 Rust | 📅 2026-09-07 - A Git worktree manager: CLI and TUI in one binary, native libgit2, per-repo declarative bootstrap, and AI agent session tracking.
+* [rat-commander](https://github.com/dividebysandwich/rat-commander) ⭐ 91 | 🐛 2 | 🌐 Rust | 📅 2026-09-08 - A fully-featured modern spiritual successor to Midnight-Commander with truecolor support and built-in process- and disk-explorer.
 * [ratifact](https://github.com/adolfousier/ratifact) ⭐ 90 | 🐛 1 | 🌐 Rust | 📅 2025-11-28 - Track and manage build artifacts from multiple programming languages.
-* [nomad](https://github.com/JosephLai241/nomad) ⭐ 74 | 🐛 9 | 🌐 Rust | 📅 2023-05-10 - Customizable next-gen tree command with Git integration and TUI.
+* [nomad](https://github.com/JosephLai241/nomad) ⭐ 75 | 🐛 9 | 🌐 Rust | 📅 2023-05-10 - Customizable next-gen tree command with Git integration and TUI.
 * [cargo-selector](https://github.com/lusingander/cargo-selector) ⭐ 73 | 🐛 1 | 🌐 Rust | 📅 2026-09-02 - Cargo subcommand to select and execute binary/example targets.
 * [tongo](https://github.com/drewzemke/tongo) ⭐ 73 | 🐛 2 | 🌐 Rust | 📅 2026-08-23 - A TUI for MongoDB.
 * [git-time-machine](https://github.com/dinakars777/git-time-machine) ⭐ 70 | 🐛 2 | 🌐 Rust | 📅 2026-05-31 - Visual Git reflog TUI for undoing Git mistakes.
-* [Martty](https://github.com/openma-ai/Martty) ⭐ 70 | 🐛 4 | 🌐 Rust | 📅 2026-09-08 - An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents, with plugins, tools, subagents, and durable sessions.
+* [Martty](https://github.com/openma-ai/Martty) ⭐ 70 | 🐛 4 | 🌐 Rust | 📅 2026-09-09 - An extensible Rust/ratatui terminal client for DeepSeek Harness and ACP-compatible coding agents, with plugins, tools, subagents, and durable sessions.
 * [nereid](https://github.com/bnomei/nereid) ⭐ 64 | 🐛 0 | 🌐 Rust | 📅 2026-07-11 - Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server).
 * [opencode stats](https://github.com/Cateds/opencode-stats) ⭐ 64 | 🐛 2 | 🌐 Rust | 📅 2026-08-04 - A terminal dashboard for OpenCode usage statistics and cost breakdowns.
-* [thurbox](https://github.com/Thurbeen/thurbox) ⭐ 60 | 🐛 1 | 🌐 Rust | 📅 2026-09-07 - A TUI orchestrator for running multiple AI coding agents (Claude Code, Codex, and others) in persistent tmux sessions.
+* [thurbox](https://github.com/Thurbeen/thurbox) ⭐ 60 | 🐛 1 | 🌐 Rust | 📅 2026-09-09 - A TUI orchestrator for running multiple AI coding agents (Claude Code, Codex, and others) in persistent tmux sessions.
 * [ygrep](https://github.com/yetidevworks/ygrep) ⭐ 58 | 🐛 2 | 🌐 Rust | 📅 2026-08-31 - A fast, local, indexed code search tool with a TUI, optimized for AI coding assistants and powered by Tantivy full-text indexing.
 * [gimoji](https://github.com/zeenix/gimoji) ⭐ 52 | 🐛 7 | 🌐 Rust | 📅 2026-09-06 - Makes it easy to add emojis to your Git commit messages.
 * [bosun](https://github.com/yetidevworks/bosun) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2026-09-02 - A tmux-native TUI for orchestrating AI coding agent sessions (Claude Code, Codex) with live previews and per-session state.
 * [image-auditor](https://github.com/0franco/image-auditor) ⭐ 45 | 🐛 0 | 🌐 Rust | 📅 2026-07-05 - Find & fix Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your codebase.
 * [commandOK](https://github.com/64bit/commandOK) ⭐ 44 | 🐛 1 | 🌐 Rust | 📅 2026-06-16 - Spotlight-like command generator for your terminal, supports leading LLM providers.
-* [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) ⭐ 40 | 🐛 8 | 🌐 Rust | 📅 2026-09-07 - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
+* [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) ⭐ 40 | 🐛 2 | 🌐 Rust | 📅 2026-09-09 - Lightning fast terminal native agent harness with tools, extensions and subagents. 15MB, 2ms boot.
+* [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 37 | 🐛 2 | 🌐 Rust | 📅 2026-09-07 - A peer-to-peer terminal multiplexer where every pane is a PTY on its owner's own machine, with an inbox of the coding agents running across all of them.
 * [deputui](https://github.com/twiddler/deputui) ⭐ 36 | 🐛 4 | 🌐 Rust | 📅 2026-09-07 - Review and install NPM package updates.
 * [lingora-tui](https://github.com/nigeleke/lingora) ⭐ 35 | 🐛 2 | 🌐 Rust | 📅 2026-09-07 - Browse, compare and validate Fluent i18n files.
 * [material](https://github.com/azorng/material) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2026-08-14 - A material design color palette for the terminal.
-* [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 32 | 🐛 2 | 🌐 Rust | 📅 2026-09-07 - A peer-to-peer terminal multiplexer where every pane is a PTY on its owner's own machine, with an inbox of the coding agents running across all of them.
 * [amtr](https://github.com/arian-shamaei/anthropometer) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-08-25 - A btop-style TUI that renders a Claude Code session's live context window as a memory map, with tool and file traffic, cache economics, and a compiled PDF report.
 * [crmux](https://github.com/maedana/crmux) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2026-08-15 - A TUI viewer for monitoring and managing multiple Claude Code sessions in tmux.
+* [Proqi](https://github.com/oborchers/proqi) ⭐ 27 | 🐛 11 | 🌐 Rust | 📅 2026-09-09 - A terminal-native prompt composer for developers working with coding agents.
 * [blippy](https://github.com/AksharP5/blippy) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2026-09-08 - A keyboard-first TUI for GitHub issues and pull requests.
-* [Proqi](https://github.com/oborchers/proqi) ⭐ 25 | 🐛 4 | 🌐 Rust | 📅 2026-09-08 - A terminal-native prompt composer for developers working with coding agents.
 * [TaskUI](https://github.com/thmshmm/taskui) ⭐ 24 | 🐛 1 | 🌐 Rust | 📅 2024-08-11 - Simple Terminal UI for Task / taskfile.dev.
 * [Gitside](https://github.com/dev-bhaskar8/gitside) ⭐ 20 | 🐛 10 | 🌐 Rust | 📅 2026-08-15 - A responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 * [ratatui-form](https://github.com/DavidLiedle/ratatui-form) ⭐ 20 | 🐛 2 | 🌐 Rust | 📅 2026-04-13 - A form library for ratatui.
@@ -214,22 +214,22 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [agx](https://github.com/brevity1swos/agx) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-06-25 - A step-through debugger for AI agent execution traces.
 * [trex](https://github.com/blackopsrepl/trex) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2026-08-06 - A fast tmux session manager with fuzzy finding, per session stats and AI Agent tracking.
 * [gmsg](https://github.com/olorikendrick/gmsg) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-07-27 - Generate, edit, and commit AI-powered Git commit messages from a single TUI.
-* [hedos](https://github.com/theiskaa/hedos) ⭐ 11 | 🐛 2 | 🌐 Rust | 📅 2026-09-07 - A terminal shelf for the local AI models already on your machine, with a built-in OpenAI-compatible gateway.
+* [hedos](https://github.com/theiskaa/hedos) ⭐ 11 | 🐛 8 | 🌐 Rust | 📅 2026-09-08 - A terminal shelf for the local AI models already on your machine, with a built-in OpenAI-compatible gateway.
 * [stevedore](https://github.com/takumiymd/stevedore) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-09-02 - A fast, keyboard-driven terminal UI for managing Docker containers and Compose stacks.
 * [LimitDeck](https://github.com/rockythink/limitdeck) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-09-04 - A compact, privacy-safe terminal dashboard for AI coding subscription limits.
-* [Forge](https://github.com/NorviaLabs/forge) ⭐ 8 | 🐛 9 | 🌐 Rust | 📅 2026-09-07 - An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.
+* [Forge](https://github.com/NorviaLabs/forge) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-09-09 - An AI coding agent that unifies an agent, code editor, and shell in a single keyboard-driven terminal workspace.
 * [Reeve](https://github.com/Dancode-188/reeve) ⭐ 7 | 🐛 9 | 🌐 Rust | 📅 2026-09-06 - A terminal cockpit for AI agents: watch a run live, score it, and step in when it goes sideways.
 * [iris](https://github.com/itzenata/iris-tui) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-07-08 - Live supervisor for every active Claude Code session - status, tokens, estimated cost, and one-pane approval of tool calls.
 * [VLE](https://github.com/tuffy/vle) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-09-01 - A lightweight text editor.
-* [rootle](https://github.com/rootledev/rootle) ⭐ 4 | 🐛 6 | 🌐 Rust | 📅 2026-09-07 - A modal TUI for browsing remote forges (GitHub in-tree, others via stdio providers) with miller columns and syntax-highlighted previews.
+* [rootle](https://github.com/rootledev/rootle) ⭐ 4 | 🐛 6 | 🌐 Rust | 📅 2026-09-08 - A modal TUI for browsing remote forges (GitHub in-tree, others via stdio providers) with miller columns and syntax-highlighted previews.
 * [ComfyGit](https://github.com/comfy-home/ComfyGit) ⭐ 3 | 🐛 7 | 🌐 Rust | 📅 2026-08-09 - All-In-One: Centralised multi-project management, Changelog generator, Version bumper & CLI tool introducing a new ComfyGitFlow.
 * [Livediff](https://github.com/SoCkEt7/Livediff) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2026-09-07 - Real-time terminal file diff monitoring TUI.
 * [raygun](https://github.com/yetidevworks/raygun) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-08-04 - A terminal-based receiver for Spatie's Ray debugger, compatible with the Ray HTTP protocol used by PHP, Laravel, and Grav.
 
 ### 🕹️ Games and Entertainment
 
-* [GitType](https://github.com/unhappychoice/gittype) ⭐ 1,591 | 🐛 16 | 🌐 Rust | 📅 2026-09-07 - A CLI code-typing game that turns your source code into typing challenges.
-* [Chess-tui](https://github.com/thomas-mauran/chess-tui) ⭐ 1,168 | 🐛 32 | 🌐 Rust | 📅 2026-08-27 - Terminal-based Chess game.
+* [GitType](https://github.com/unhappychoice/gittype) ⭐ 1,593 | 🐛 16 | 🌐 Rust | 📅 2026-09-07 - A CLI code-typing game that turns your source code into typing challenges.
+* [Chess-tui](https://github.com/thomas-mauran/chess-tui) ⭐ 1,169 | 🐛 32 | 🌐 Rust | 📅 2026-08-27 - Terminal-based Chess game.
 * [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) ⭐ 735 | 🐛 3 | 🌐 Rust | 📅 2026-09-05 - P2P terminal game about spacepirates playing basketball across the galaxy.
 * [plastic](https://github.com/Amjad50/plastic) ⭐ 582 | 🐛 20 | 🌐 Rust | 📅 2026-03-09 - NES emulator with extra ui implemented in ratatui.
 * [Dealve](https://github.com/kurama/dealve-tui) ⭐ 246 | 🐛 5 | 🌐 Rust | 📅 2026-05-08 - Browse game deals across Steam, GOG, Humble Bundle, Epic Games, and more from your terminal.
@@ -267,15 +267,15 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🎼 Music and Media
 
-* [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,344 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
-* [spotify-player](https://github.com/aome510/spotify-player) ⭐ 7,186 | 🐛 156 | 🌐 Rust | 📅 2026-09-08 - An independently developed Spotify player with full feature parity.
-* [MovieBox-TUI](https://github.com/mesamirh/MovieBox-Tui) ⭐ 1,640 | 🐛 3 | 🌐 Rust | 📅 2026-09-06 - Terminal client for discovering and downloading movies and series, with playback in mpv, VLC, or IINA.
-* [spotatui](https://github.com/LargeModGames/spotatui) ⭐ 1,317 | 🐛 32 | 🌐 Rust | 📅 2026-09-07 - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
-* [bookokrat](https://github.com/bugzmanov/bookokrat) ⭐ 1,131 | 🐛 45 | 🌐 Rust | 📅 2026-09-06 - A full-featured EPUB / PDF e-book reader with Vim keybindings.
+* [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,346 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - (Unmaintained) The original Spotify TUI; see spotatui (direct fork) or spotify-player (independent alternative).
+* [spotify-player](https://github.com/aome510/spotify-player) ⭐ 7,191 | 🐛 153 | 🌐 Rust | 📅 2026-09-09 - An independently developed Spotify player with full feature parity.
+* [MovieBox-TUI](https://github.com/mesamirh/MovieBox-Tui) ⭐ 1,699 | 🐛 4 | 🌐 Rust | 📅 2026-09-06 - Terminal client for discovering and downloading movies and series, with playback in mpv, VLC, or IINA.
+* [spotatui](https://github.com/LargeModGames/spotatui) ⭐ 1,324 | 🐛 32 | 🌐 Rust | 📅 2026-09-08 - Spotify client with native streaming, synced lyrics, and audio visualization. A direct fork of spotify-tui with continued development and new features.
+* [bookokrat](https://github.com/bugzmanov/bookokrat) ⭐ 1,132 | 🐛 45 | 🌐 Rust | 📅 2026-09-06 - A full-featured EPUB / PDF e-book reader with Vim keybindings.
 * [manga-tui](https://github.com/josueBarretogit/manga-tui) ⭐ 930 | 🐛 24 | 🌐 Rust | 📅 2026-07-13 - Terminal-based manga reader and downloader with image support.
 * [ytui-music](https://github.com/sudipghimire533/ytui-music) ⭐ 773 | 🐛 37 | 🌐 Rust | 📅 2025-03-03 - Listen to music from YouTube in the terminal.
-* [managarr](https://github.com/Dark-Alex-17/managarr) ⭐ 763 | 🐛 2 | 🌐 Rust | 📅 2026-07-06 - A TUI and CLI for managing all your Servarrs.
-* [scope-tui](https://github.com/alemidev/scope-tui) ⭐ 712 | 🐛 12 | 🌐 Rust | 📅 2026-03-01 - A simple oscilloscope/vectorscope/spectroscope for your terminal.
+* [managarr](https://github.com/Dark-Alex-17/managarr) ⭐ 765 | 🐛 2 | 🌐 Rust | 📅 2026-07-06 - A TUI and CLI for managing all your Servarrs.
+* [scope-tui](https://github.com/alemidev/scope-tui) ⭐ 715 | 🐛 12 | 🌐 Rust | 📅 2026-03-01 - A simple oscilloscope/vectorscope/spectroscope for your terminal.
 * [twitch-tui](https://github.com/Xithrius/twitch-tui) ⭐ 632 | 🐛 10 | 🌐 Rust | 📅 2026-09-02 - Twitch chat in the terminal.
 * [NoctaVox](https://github.com/Jaxx497/noctavox) ⭐ 376 | 🐛 3 | 🌐 Rust | 📅 2026-08-22 - A lightweight, customizable TUI music player for local files.
 * [asak](https://github.com/chaosprint/asak) ⭐ 370 | 🐛 11 | 🌐 Rust | 📅 2026-04-11 - A cross-platform audio recording/playback CLI tool.
@@ -310,19 +310,19 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🌐 Networking and Internet
 
-* [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend) ⭐ 90,322 | 🐛 1,110 | 🌐 Dart | 📅 2026-08-31
-* [vector](https://github.com/vectordotdev/vector) ⭐ 22,523 | 🐛 2,518 | 🌐 Rust | 📅 2026-09-05 - A high-performance observability data pipeline.
-* [gping](https://github.com/orf/gping/) ⭐ 12,672 | 🐛 38 | 🌐 Rust | 📅 2026-08-31 - Ping tool with a graph.
-* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,955 | 🐛 55 | 🌐 Rust | 📅 2026-08-01 - Displays network utilization by process.
-* [oha](https://github.com/hatoo/oha) ⭐ 10,533 | 🐛 57 | 🌐 Rust | 📅 2026-09-08 - Top-like monitoring tool for HTTP(S) traffic.
-* [trippy](https://github.com/fujiapple852/trippy) ⭐ 7,879 | 🐛 82 | 🌐 Rust | 📅 2026-09-08 - Network diagnostic tool.
-* [rustnet](https://github.com/domcyrus/rustnet) ⭐ 5,002 | 🐛 19 | 🌐 Rust | 📅 2026-09-06 - A cross-platform network monitoring tool with deep packet inspection.
-* [termscp](https://github.com/veeso/termscp) ⭐ 3,071 | 🐛 2 | 🌐 Rust | 📅 2026-09-03 - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
-* [impala](https://github.com/pythops/impala) ⭐ 2,842 | 🐛 0 | 🌐 Rust | 📅 2026-08-27 - TUI for managing wifi on Linux.
-* [oryx](https://github.com/pythops/oryx) ⭐ 2,574 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI for sniffing network traffic using eBPF.
+* [JocalSend](https://git.kittencollective.com/nebkor/joecalsend) - Peer to peer local file and data transfer, compatible with [LocalSend](https://github.com/localsend/localsend) ⭐ 90,398 | 🐛 1,111 | 🌐 Dart | 📅 2026-08-31
+* [vector](https://github.com/vectordotdev/vector) ⭐ 22,526 | 🐛 2,511 | 🌐 Rust | 📅 2026-09-08 - A high-performance observability data pipeline.
+* [gping](https://github.com/orf/gping/) ⭐ 12,673 | 🐛 38 | 🌐 Rust | 📅 2026-08-31 - Ping tool with a graph.
+* [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,956 | 🐛 55 | 🌐 Rust | 📅 2026-08-01 - Displays network utilization by process.
+* [oha](https://github.com/hatoo/oha) ⭐ 10,537 | 🐛 57 | 🌐 Rust | 📅 2026-09-08 - Top-like monitoring tool for HTTP(S) traffic.
+* [trippy](https://github.com/fujiapple852/trippy) ⭐ 7,885 | 🐛 83 | 🌐 Rust | 📅 2026-09-09 - Network diagnostic tool.
+* [rustnet](https://github.com/domcyrus/rustnet) ⭐ 5,004 | 🐛 19 | 🌐 Rust | 📅 2026-09-06 - A cross-platform network monitoring tool with deep packet inspection.
+* [termscp](https://github.com/veeso/termscp) ⭐ 3,075 | 🐛 2 | 🌐 Rust | 📅 2026-09-03 - A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
+* [impala](https://github.com/pythops/impala) ⭐ 2,843 | 🐛 0 | 🌐 Rust | 📅 2026-08-27 - TUI for managing wifi on Linux.
+* [oryx](https://github.com/pythops/oryx) ⭐ 2,575 | 🐛 5 | 🌐 Rust | 📅 2026-09-01 - A TUI for sniffing network traffic using eBPF.
 * [netscanner](https://github.com/Chleba/netscanner) ⭐ 1,835 | 🐛 6 | 🌐 Rust | 📅 2026-07-06 - Network scanning tool.
-* [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) ⭐ 1,651 | 🐛 7 | 🌐 Rust | 📅 2026-08-14 - Real-time traffic monitoring and statistics for AdGuard Home.
-* [dnsglobe](https://github.com/514-labs/dnsglobe) ⭐ 1,147 | 🐛 1 | 🌐 Rust | 📅 2026-09-02 - Global DNS propagation checker querying 34 resolvers worldwide, with a world map.
+* [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) ⭐ 1,653 | 🐛 7 | 🌐 Rust | 📅 2026-08-14 - Real-time traffic monitoring and statistics for AdGuard Home.
+* [dnsglobe](https://github.com/514-labs/dnsglobe) ⭐ 1,148 | 🐛 1 | 🌐 Rust | 📅 2026-09-02 - Global DNS propagation checker querying 34 resolvers worldwide, with a world map.
 * [adsb\_deku/radar](https://github.com/wcampbell0x2a/adsb_deku#radar-tui) ⭐ 727 | 🐛 25 | 🌐 Rust | 📅 2026-01-04 - TUI for displaying ADS-B data from aircraft.
 * [mqttui](https://github.com/EdJoPaTo/mqttui) ⭐ 723 | 🐛 11 | 🌐 Rust | 📅 2026-08-09 - MQTT client for subscribing or publishing to topics.
 * [vortix](https://github.com/Harry-kp/vortix) ⭐ 648 | 🐛 24 | 🌐 Rust | 📅 2026-09-07 - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
@@ -331,13 +331,13 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [CuTE](https://github.com/PThorpe92/CuTE) ⚠️ Archived - A libcurl powered HTTP Client with API-key/request mgmt and vim keybindings.
 * [wireman](https://github.com/preiter93/wireman) ⭐ 179 | 🐛 6 | 🌐 Rust | 📅 2026-08-22 - A gRPC client for the terminal.
 * [vincenzo](https://github.com/gabrieldemian/vincenzo) ⭐ 158 | 🐛 4 | 🌐 Rust | 📅 2026-04-05 - A bittorrent client for the terminal with vim-like keybindings.
-* [streamtop](https://github.com/Jorji49/streamtop) ⭐ 93 | 🐛 0 | 🌐 Rust | 📅 2026-09-06 - Terminal-based diagnostic and validation tool for live HLS, DASH, and IPTV streams.
+* [streamtop](https://github.com/Jorji49/streamtop) ⭐ 95 | 🐛 0 | 🌐 Rust | 📅 2026-09-06 - Terminal-based diagnostic and validation tool for live HLS, DASH, and IPTV streams.
 * [mullvad-tui](https://github.com/d10n/mullvad-tui) ⭐ 74 | 🐛 0 | 🌐 Rust | 📅 2026-06-24 - A TUI for Mullvad VPN.
 * [mxr](https://github.com/planetaryescape/mxr) ⭐ 72 | 🐛 13 | 🌐 Rust | 📅 2026-09-04 - Local-first email client with Vim-style navigation, multi-account sync, and full-text search.
 * [rustmission](https://github.com/intuis/rustmission) ⭐ 66 | 🐛 21 | 🌐 Rust | 📅 2026-03-26 - TUI for the Transmission daemon.
 * [terminusdm](https://github.com/sumoduduk/terminusdm) ⭐ 52 | 🐛 0 | 🌐 Rust | 📅 2024-08-22 - Cross Platform Terminal Download Manager.
 * [YADB](https://github.com/izya4ka/yadb) ⭐ 52 | 🐛 0 | 🌐 Rust | 📅 2026-02-24 - A web directory brute-forcing tool.
-* [ytunnel](https://github.com/yetidevworks/ytunnel) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2026-08-05 - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
+* [ytunnel](https://github.com/yetidevworks/ytunnel) ⭐ 51 | 🐛 0 | 🌐 Rust | 📅 2026-08-05 - A TUI-first CLI for managing Cloudflare Tunnels with custom domains.
 * [rrtop](https://github.com/wojciech-zurek/rrtop) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2021-08-05 - Redis monitoring (top like) app. rrtop -> \[r]ust \[r]edis \[top].
 * [discovery-rs](https://github.com/JustPretender/discovery-rs) ⭐ 39 | 🐛 1 | 🌐 Rust | 📅 2025-08-21 - An utility to discover mDNS services on your network.
 * [conclusive](https://github.com/mrusme/conclusive) ⚠️ Archived - A command line client for Plausible Analytics.
@@ -351,47 +351,47 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🚀 Productivity and Utilities
 
-* [atuin](https://github.com/atuinsh/atuin) ⭐ 31,564 | 🐛 431 | 🌐 Rust | 📅 2026-09-07 - Magical shell history.
-* [television](https://github.com/alexpasmantier/television) ⭐ 6,252 | 🐛 80 | 🌐 Rust | 📅 2026-09-06 - A blazingly fast general purpose fuzzy finder for your terminal.
-* [linutil](https://github.com/ChrisTitusTech/linutil) ⭐ 5,252 | 🐛 20 | 🌐 Shell | 📅 2026-09-07 - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
-* [xan](https://github.com/medialab/xan) ⭐ 4,497 | 🐛 125 | 🌐 Rust | 📅 2026-09-04 - A terminal tool for processing CSV files.
+* [atuin](https://github.com/atuinsh/atuin) ⭐ 31,568 | 🐛 423 | 🌐 Rust | 📅 2026-09-09 - Magical shell history.
+* [television](https://github.com/alexpasmantier/television) ⭐ 6,254 | 🐛 81 | 🌐 Rust | 📅 2026-09-08 - A blazingly fast general purpose fuzzy finder for your terminal.
+* [linutil](https://github.com/ChrisTitusTech/linutil) ⭐ 5,253 | 🐛 20 | 🌐 Shell | 📅 2026-09-07 - A distro-agnostic toolbox designed to simplify everyday Linux tasks.
+* [xan](https://github.com/medialab/xan) ⭐ 4,495 | 🐛 126 | 🌐 Rust | 📅 2026-09-08 - A terminal tool for processing CSV files.
 * [binsider](https://github.com/orhun/binsider) ⭐ 4,418 | 🐛 38 | 🌐 Rust | 📅 2026-09-06 - A TUI for analyzing binary files.
-* [csvlens](https://github.com/YS-L/csvlens) ⭐ 3,956 | 🐛 59 | 🌐 Rust | 📅 2026-07-04 - Command line csv viewer.
-* [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,126 | 🐛 45 | 🌐 Rust | 📅 2024-03-07 - Terminal-based disk space navigator.
-* [tabiew](https://github.com/shshemi/tabiew) ⭐ 3,097 | 🐛 18 | 🌐 Rust | 📅 2026-09-06 - A lightweight TUI app to view and query CSV files.
-* [bluetui](https://github.com/pythops/bluetui) ⭐ 2,996 | 🐛 18 | 🌐 Rust | 📅 2026-08-28 - A TUI for managing Bluetooth devices.
-* [mprocs](https://github.com/pvolok/mprocs) ⭐ 2,713 | 🐛 69 | 🌐 Rust | 📅 2026-09-05 - Run multiple commands in parallel and shows output of each command separately.
+* [csvlens](https://github.com/YS-L/csvlens) ⭐ 3,958 | 🐛 59 | 🌐 Rust | 📅 2026-07-04 - Command line csv viewer.
+* [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,125 | 🐛 45 | 🌐 Rust | 📅 2024-03-07 - Terminal-based disk space navigator.
+* [tabiew](https://github.com/shshemi/tabiew) ⭐ 3,097 | 🐛 18 | 🌐 Rust | 📅 2026-09-09 - A lightweight TUI app to view and query CSV files.
+* [bluetui](https://github.com/pythops/bluetui) ⭐ 2,998 | 🐛 18 | 🌐 Rust | 📅 2026-08-28 - A TUI for managing Bluetooth devices.
+* [mprocs](https://github.com/pvolok/mprocs) ⭐ 2,714 | 🐛 68 | 🌐 Rust | 📅 2026-09-08 - Run multiple commands in parallel and shows output of each command separately.
 * [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) ⭐ 2,120 | 🐛 133 | 🌐 Rust | 📅 2026-09-06 - TUI for the Taskwarrior command-line task manager.
-* [gpg-tui](https://github.com/orhun/gpg-tui) ⭐ 1,759 | 🐛 14 | 🌐 Rust | 📅 2026-09-07 - Manage your GnuPG keys with ease!.
-* [tickrs](https://github.com/tarkah/tickrs) ⭐ 1,690 | 🐛 33 | 🌐 Rust | 📅 2026-05-19 - Stock market ticker in the terminal.
-* [tuxedo](https://github.com/webstonehq/tuxedo) ⭐ 1,606 | 🐛 62 | 🌐 Rust | 📅 2026-09-05 - A fast, keyboard-driven terminal UI for todo.txt.
+* [gpg-tui](https://github.com/orhun/gpg-tui) ⭐ 1,760 | 🐛 14 | 🌐 Rust | 📅 2026-09-07 - Manage your GnuPG keys with ease!.
+* [tickrs](https://github.com/tarkah/tickrs) ⭐ 1,691 | 🐛 33 | 🌐 Rust | 📅 2026-05-19 - Stock market ticker in the terminal.
+* [tuxedo](https://github.com/webstonehq/tuxedo) ⭐ 1,608 | 🐛 62 | 🌐 Rust | 📅 2026-09-05 - A fast, keyboard-driven terminal UI for todo.txt.
 * [ttyper](https://github.com/max-niederman/ttyper) ⭐ 1,591 | 🐛 36 | 🌐 Rust | 📅 2026-04-07 - Terminal-based typing test.
-* [flyline](https://github.com/HalFrgrd/flyline) ⭐ 1,223 | 🐛 30 | 🌐 Rust | 📅 2026-09-07 - A Bash plugin TUI for an enhanced command line writing experience.
-* [eilmeldung](https://github.com/christo-auer/eilmeldung) ⭐ 998 | 🐛 1 | 🌐 Rust | 📅 2026-09-04 - A TUI RSS reader based on the news\_flash library inspired by Neovim and co.
+* [flyline](https://github.com/HalFrgrd/flyline) ⭐ 1,236 | 🐛 30 | 🌐 Rust | 📅 2026-09-07 - A Bash plugin TUI for an enhanced command line writing experience.
+* [eilmeldung](https://github.com/christo-auer/eilmeldung) ⭐ 1,001 | 🐛 1 | 🌐 Rust | 📅 2026-09-04 - A TUI RSS reader based on the news\_flash library inspired by Neovim and co.
 * [stu](https://github.com/lusingander/stu) ⭐ 907 | 🐛 15 | 🌐 Rust | 📅 2026-04-30 - A TUI for AWS S3.
 * [igrep](https://github.com/konradsz/igrep) ⭐ 844 | 🐛 11 | 🌐 Rust | 📅 2026-02-01 - Interactive Grep.
 * [tui-journal](https://github.com/AmmarAbouZor/tui-journal) ⭐ 778 | 🐛 12 | 🌐 Rust | 📅 2026-09-06 - Journaling/Notes-taking terminal-based app.
 * [flawz](https://github.com/orhun/flawz) ⭐ 606 | 🐛 15 | 🌐 Rust | 📅 2026-06-13 - A TUI for browsing security vulnerabilities (CVEs).
-* [md-tui](https://github.com/henriklovhaug/md-tui) ⭐ 544 | 🐛 20 | 🌐 Rust | 📅 2026-09-06 - Markdown renderer in the terminal.
+* [md-tui](https://github.com/henriklovhaug/md-tui) ⭐ 548 | 🐛 21 | 🌐 Rust | 📅 2026-09-08 - Markdown renderer in the terminal.
 * [rucola](https://github.com/Linus-Mussmaecher/rucola) ⭐ 533 | 🐛 2 | 🌐 Rust | 📅 2026-08-25 - Terminal-based markdown note manager.
 * [otree](https://github.com/fioncat/otree) ⭐ 514 | 🐛 3 | 🌐 Rust | 📅 2026-09-07 - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
-* [models](https://github.com/arimxyer/models) ⭐ 505 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A TUI for browsing AI models, benchmarks, and coding agents.
+* [models](https://github.com/arimxyer/models) ⭐ 505 | 🐛 0 | 🌐 Rust | 📅 2026-09-09 - A TUI for browsing AI models, benchmarks, and coding agents.
 * [blendr](https://github.com/dmtrKovalenko/blendr) ⭐ 492 | 🐛 6 | 🌐 Rust | 📅 2024-09-01 - The hacker's BLE (bluetooth low energy) browser terminal app.
 * [feedr](https://github.com/bahdotsh/feedr) ⭐ 432 | 🐛 8 | 🌐 Rust | 📅 2026-06-11 - A terminal-based RSS/Atom feed reader with a TUI.
-* [fsel](https://github.com/Mjoyufull/fsel) ⭐ 417 | 🐛 9 | 🌐 Rust | 📅 2026-09-08 - A TUI app launcher and fuzzy finder for GNU/Linux and BSD.
+* [fsel](https://github.com/Mjoyufull/fsel) ⭐ 418 | 🐛 9 | 🌐 Rust | 📅 2026-09-08 - A TUI app launcher and fuzzy finder for GNU/Linux and BSD.
 * [kbt](https://github.com/bloznelis/kbt) ⭐ 392 | 🐛 5 | 🌐 Rust | 📅 2025-11-26 - Keyboard tester in terminal.
 * [timr-tui](https://github.com/sectore/timr-tui) ⭐ 373 | 🐛 1 | 🌐 Rust | 📅 2026-09-01 - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
 * [jwt-ui](https://github.com/jwt-rs/jwt-ui) ⭐ 350 | 🐛 10 | 🌐 Rust | 📅 2026-05-31 - A command line UI for decoding/encoding JSON Web Tokens.
 * [tmmpr](https://github.com/tanciaku/tmmpr) ⭐ 348 | 🐛 3 | 🌐 Rust | 📅 2026-05-15 - Terminal mind mapper.
 * [blogr](https://github.com/bahdotsh/blogr) ⭐ 345 | 🐛 13 | 🌐 Rust | 📅 2026-06-08 - A terminal-based static site generator with a TUI editor for writing blog posts.
 * [rusty-krab-manager](https://github.com/aryakaul/rusty-krab-manager) ⭐ 328 | 🐛 11 | 🌐 Rust | 📅 2026-08-30 - Rime management TUI in Rust.
-* [mirador](https://github.com/jchultarsky/mirador) ⭐ 300 | 🐛 3 | 🌐 Rust | 📅 2026-09-05 - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
+* [mirador](https://github.com/jchultarsky/mirador) ⭐ 299 | 🐛 0 | 🌐 Rust | 📅 2026-09-09 - A personal dashboard with world clocks, calendar, weather, tasks, notes, a market watchlist and live CPU and network graphs.
 * [exabind](https://github.com/junkdog/exabind) ⭐ 295 | 🐛 0 | 🌐 Rust | 📅 2026-03-29 - An animated TUI for viewing KDE shortcuts.
-* [ostt](https://github.com/kristoferlund/ostt) ⭐ 294 | 🐛 3 | 🌐 Rust | 📅 2026-08-12 - Open Speech-to-Text recording tool with real-time volume metering and transcription.
+* [ostt](https://github.com/kristoferlund/ostt) ⭐ 295 | 🐛 3 | 🌐 Rust | 📅 2026-08-12 - Open Speech-to-Text recording tool with real-time volume metering and transcription.
 * [fzf-make](https://github.com/kyu08/fzf-make) ⭐ 292 | 🐛 45 | 🌐 Rust | 📅 2026-09-07 - A command line tool that executes make target using fuzzy finder with preview window.
 * [glues](https://github.com/gluesql/glues) ⭐ 284 | 🐛 16 | 🌐 Rust | 📅 2026-06-02 - A sync-enabled TUI note-taking app with Git, CSV, and JSON support.
 * [hexhog](https://github.com/DVDTSB/hexhog) ⭐ 280 | 🐛 9 | 🌐 Rust | 📅 2026-02-16 - TUI Hex Editor/Viewer.
-* [budget\_tracker\_tui](https://github.com/Feromond/budget_tracker_tui) ⭐ 278 | 🐛 8 | 🌐 Rust | 📅 2026-09-08 - A fast, keyboard-driven TUI for tracking expenses, managing categories, and analyzing your budget with ease.
+* [budget\_tracker\_tui](https://github.com/Feromond/budget_tracker_tui) ⭐ 278 | 🐛 7 | 🌐 Rust | 📅 2026-09-09 - A fast, keyboard-driven TUI for tracking expenses, managing categories, and analyzing your budget with ease.
 * [Rust-Kanban](https://github.com/yashs662/rust_kanban) ⭐ 270 | 🐛 2 | 🌐 Rust | 📅 2025-02-13 - A kanban board for the terminal.
 * [numr](https://github.com/nasedkinpv/numr) ⭐ 266 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - A natural language calculator with unit/currency conversions and vim-style keybindings.
 * [work-tuimer](https://github.com/Kamyil/work-tuimer) ⭐ 261 | 🐛 9 | 🌐 Rust | 📅 2026-05-18 - A TUI for easier time tracking each day, task-per-task with summaries.
@@ -404,7 +404,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [envx](https://github.com/mikeleppane/envx) ⭐ 229 | 🐛 5 | 🌐 Rust | 📅 2025-09-19 - Environment variable manager for developers, featuring an intuitive TUI.
 * [basilk](https://github.com/GabAlpha/basilk) ⭐ 215 | 🐛 11 | 🌐 Rust | 📅 2025-05-24 - A TUI to manage your tasks with minimal kanban logic.
 * [splashboard](https://github.com/unhappychoice/splashboard) ⭐ 215 | 🐛 13 | 🌐 Rust | 📅 2026-09-06 - A customizable terminal splash rendered on shell startup or directory updates.
-* [kanban](https://github.com/fulsomenko/kanban) ⭐ 166 | 🐛 7 | 🌐 Rust | 📅 2026-09-07 - TUI kanban board for projects management with sprint tracking and task prioritization.
+* [kanban](https://github.com/fulsomenko/kanban) ⭐ 167 | 🐛 7 | 🌐 Rust | 📅 2026-09-09 - TUI kanban board for projects management with sprint tracking and task prioritization.
 * [Jirust](https://github.com/moali87/jirust) ⭐ 160 | 🐛 6 | 🌐 Rust | 📅 2024-05-29 - A Jira TUI.
 * [oracle](https://github.com/yashksaini-coder/oracle) ⭐ 156 | 🐛 0 | 🌐 Rust | 📅 2026-04-02 - A TUI Rust codebase inspector to browse functions, structs, enums, traits, and more.
 * [synd](https://github.com/ymgyt/syndicationd) ⭐ 154 | 🐛 10 | 🌐 Rust | 📅 2026-09-05 - A TUI feed viewer.
@@ -412,12 +412,12 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [snipt](https://github.com/snipt/snipt) ⭐ 149 | 🐛 5 | 🌐 Rust | 📅 2026-04-02 - A text snippet expansion tool with a TUI for managing snippets.
 * [bbcli](https://github.com/hako/bbcli) ⭐ 142 | 🐛 0 | 🌐 Rust | 📅 2026-07-02 - A terminal-based BBC News reader featuring a compact, numbered list interface with vim-like navigation.
 * [fitui](https://github.com/ayanchavand/fitui) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2026-07-18 - A terminal-based personal finance tracker and budgeting with TUI.
-* [tatuin](https://github.com/panter-dsd/tatuin) ⭐ 137 | 🐛 18 | 🌐 Rust | 📅 2026-09-07 - Task Aggregator TUI for N providers.
+* [tatuin](https://github.com/panter-dsd/tatuin) ⭐ 138 | 🐛 18 | 🌐 Rust | 📅 2026-09-07 - Task Aggregator TUI for N providers.
 * [brew-explorer](https://github.com/cosmincatalin/brew-explorer) ⭐ 136 | 🐛 3 | 🌐 Rust | 📅 2026-05-27 - A TUI for exploring and managing your Homebrew packages with ease.
 * [passepartui](https://github.com/kardwen/passepartui) ⭐ 129 | 🐛 4 | 🌐 Rust | 📅 2025-05-07 - A TUI for pass.
 * [codemark](https://github.com/DanielCardonaRojas/codemark) ⭐ 123 | 🐛 7 | 🌐 Rust | 📅 2026-08-31 - A semantic code bookmarking system for humans and agents.
 * [judo](https://github.com/giacomopiccinini/judo) ⭐ 118 | 🐛 1 | 🌐 Rust | 📅 2026-02-16 - A multi-database TUI for ToDo lists.
-* [gitv](https://github.com/jayanaxhf/gitv) ⭐ 116 | 🐛 12 | 🌐 Rust | 📅 2026-09-03 - A beautiful, feature-rich and performant terminal client for GitHub issues.
+* [gitv](https://github.com/jayanaxhf/gitv) ⭐ 115 | 🐛 12 | 🌐 Rust | 📅 2026-09-03 - A beautiful, feature-rich and performant terminal client for GitHub issues.
 * [tuistash](https://github.com/edmocosta/tuistash) ⭐ 109 | 🐛 2 | 🌐 Rust | 📅 2026-04-10 - A TUI for monitoring Logstash.
 * [chamber](https://github.com/mikeleppane/chamber) ⭐ 104 | 🐛 1 | 🌐 Rust | 📅 2025-09-06 - A TUI for managing secrets.
 * [ddv](https://github.com/lusingander/ddv) ⭐ 102 | 🐛 3 | 🌐 Rust | 📅 2026-04-29 - Terminal DynamoDB viewer.
@@ -432,7 +432,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [scriptor](https://github.com/giacomopiccinini/scriptor) ⭐ 63 | 🐛 1 | 🌐 Rust | 📅 2026-05-14 - A (medieval) local speech-to-text TUI & CLI.
 * [Rex](https://github.com/TheRustyPickle/Rex) ⭐ 62 | 🐛 0 | 🌐 Rust | 📅 2026-07-04 - A TUI for managing Incomes and Expenses.
 * [btlescan](https://github.com/ztroop/btlescan) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-03-01 - Bluetooth Low Energy (BTLE) scanner and GATT viewer.
-* [kimün](https://github.com/nico2sh/kimun) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-08-19 - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
+* [kimün](https://github.com/nico2sh/kimun) ⭐ 56 | 🐛 0 | 🌐 Rust | 📅 2026-09-09 - A terminal-based Markdown note taking app that combines an interactive TUI with a scriptable CLI for automation.
 * [get\_blessed\_rs](https://github.com/josueBarretogit/get_blessed_rs) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2024-06-29 - Get the best crates for your rust projects, curated by blessed.rs.
 * [TSHTS](https://github.com/SamuelSchlesinger/tshts) ⭐ 47 | 🐛 0 | 🌐 Rust | 📅 2026-05-28 - A terminal based spreadsheet application.
 * [dead-ringer](https://github.com/ztroop/dead-ringer) ⭐ 46 | 🐛 0 | 🌐 Rust | 📅 2026-03-01 - Binary diff tool for Hex/ASCII analysis.
@@ -443,7 +443,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [comhad](https://github.com/Eoin-McMahon/Comhad) ⭐ 37 | 🐛 4 | 🌐 Rust | 📅 2026-09-01 - A ranger-style terminal browser for S3, with previews, background transfers, and non-destructive sync.
 * [lottie](https://github.com/coignard/lottie) ⚠️ Archived - A terminal screenwriting editor for the Fountain plain-text screenplay format.
 * [vib](https://github.com/ayanchavand/vib) ⭐ 33 | 🐛 1 | 🌐 Rust | 📅 2026-07-25 - A terminal file browser with LocalSend built in, for managing, organizing and transferring files across devices.
-* [alphai-tui](https://github.com/makeev/alphai-tui) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-09-06 - A stock dashboard with quotes, candlestick charts, AI-scored news and SEC Form 4 insider activity.
+* [alphai-tui](https://github.com/makeev/alphai-tui) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A stock dashboard with quotes, candlestick charts, AI-scored news and SEC Form 4 insider activity.
 * [flerp](https://github.com/Huseynteymurzade28/flerp) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2026-08-17 - A TUI for exploring and analyzing text files, PDFs and images.
 * [depot-rs](https://github.com/quietpigeon/depot-rs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2025-10-04 - A TUI for managing crates.
 * [columbus](https://github.com/sivaprakashkrp/columbus) ⭐ 23 | 🐛 1 | 🌐 Rust | 📅 2026-06-15 - A GUI-like TUI file explorer.
@@ -454,16 +454,16 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [pgmon](https://github.com/nbari/pgmon) ⭐ 14 | 🐛 2 | 🌐 Rust | 📅 2026-07-01 - A TUI for monitoring PostgresSQL databases.
 * [tts-tui](https://github.com/lesleyrs/tts-tui) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2024-01-26 - Text to speech app that reads from clipboard.
 * [Respire](https://github.com/ElevenJune/respire) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-06-22 - A breathing app to take a break directly from your terminal.
-* [termi](https://github.com/tuna4ll/termi) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-09-07 - A modal terminal code editor.
+* [termi](https://github.com/tuna4ll/termi) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A modal terminal code editor.
 * [exhaust](https://github.com/heyrict/exhaust) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2020-04-18 - A terminal app for doing exams.
 * [quick-note](https://github.com/daniel-valencia-ts/quick-note) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-06-30 - A simple note-taking tool.
 * [fastcards](https://github.com/indium114/fastcards) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2026-08-30 - A CLI spaced-repetition flashcard study tool.
 * [traceview](https://github.com/javaLux/traceview) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2026-08-26 - Tracing and viewing your files and resource landscape.
-* [ratslate](https://github.com/azihsoyn/ratslate) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-09-07 - An infinite-canvas whiteboard driven by the mouse.
+* [ratslate](https://github.com/azihsoyn/ratslate) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2026-09-07 - An infinite-canvas whiteboard driven by the mouse.
 * [rsstig](https://github.com/indium114/rsstig) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2026-09-04 - An unconventional terminal RSS/Atom reader.
 * [todolist-rust](https://github.com/ebubekirgungor/todolist-rust) ⚠️ Archived - A terminal-based simple to-do app.
 * [void](https://github.com/p6laris/Void) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-08-16 - A focus app with built-in task management, streak tracking, and customizable break schedules.
-* [edamame](https://github.com/mijowi/edamame) ⭐ 3 | 🐛 13 | 🌐 Rust | 📅 2026-09-07 - A Terminal Markdown editor that stays rendered while you edit.
+* [edamame](https://github.com/mijowi/edamame) ⭐ 3 | 🐛 14 | 🌐 Rust | 📅 2026-09-09 - A Terminal Markdown editor that stays rendered while you edit.
 * [sc-cli](https://github.com/lnds/sc-cli) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-01-08 - A TUI for Shortcut (formerly know as Clubhouse) a project management tool for teams.
 * [isw](https://gitlab.com/thom-cameron/isw) - A simple terminal stopwatch application for pomodoro etc.
 * [pgtui](https://codeberg.org/kdwarn/pgtui) - A PostgresSQL TUI client that utilizes your terminal text editor for inserts & updates.
@@ -471,13 +471,13 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 🤡 Social Media
 
-* [concord](https://github.com/chojs23/concord) ⭐ 1,448 | 🐛 43 | 🌐 Rust | 📅 2026-09-07 - A TUI client for Discord.
-* [iamb](https://github.com/ulyssa/iamb) ⭐ 1,276 | 🐛 157 | 🌐 Rust | 📅 2026-09-05 - A matrix chat client with vim keybindings.
-* [tgt](https://github.com/FedericoBruzzone/tgt) ⭐ 1,007 | 🐛 15 | 🌐 Rust | 📅 2026-09-07 - A TUI for Telegram written in Rust.
+* [concord](https://github.com/chojs23/concord) ⭐ 1,452 | 🐛 44 | 🌐 Rust | 📅 2026-09-08 - A TUI client for Discord.
+* [iamb](https://github.com/ulyssa/iamb) ⭐ 1,275 | 🐛 157 | 🌐 Rust | 📅 2026-09-08 - A matrix chat client with vim keybindings.
+* [tgt](https://github.com/FedericoBruzzone/tgt) ⭐ 1,009 | 🐛 15 | 🌐 Rust | 📅 2026-09-07 - A TUI for Telegram written in Rust.
 * [termchat](https://github.com/lemunozm/termchat) ⭐ 588 | 🐛 7 | 🌐 Rust | 📅 2023-11-27 - Terminal chat through the LAN with video streaming and file transfer.
 * [tuisky](https://github.com/sugyan/tuisky) ⭐ 164 | 🐛 11 | 🌐 Rust | 📅 2025-12-28 - TUI client for Bluesky.
 * [lobtui](https://github.com/pythops/lobtui) ⭐ 121 | 🐛 3 | 🌐 Rust | 📅 2025-05-16 - TUI for lobste.rs website.
-* [nostui](https://github.com/akiomik/nostui) ⭐ 70 | 🐛 15 | 🌐 Rust | 📅 2026-09-08 - A TUI client for Nostr.
+* [nostui](https://github.com/akiomik/nostui) ⭐ 71 | 🐛 16 | 🌐 Rust | 📅 2026-09-08 - A TUI client for Nostr.
 * [rvIRC](https://github.com/KaraZajac/rvIRC) ⭐ 24 | 🐛 0 | 🌐 Rust | 📅 2026-05-17 - A TUI client for IRC.
 * [omaro](https://github.com/Rolv-Apneseth/omaro) ⭐ 21 | 🐛 3 | 🌐 Rust | 📅 2026-09-04 - TUI for the lobste.rs website.
 * [Chat-gRPC](https://github.com/Atheer2104/chat-grpc) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2024-08-13 - A Real-time Chat Microservice built in Rust using gRPC, including a TUI client.
@@ -485,24 +485,24 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ### 👨‍💻 System Administration
 
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 13,997 | 🐛 107 | 🌐 Rust | 📅 2026-09-08 - Cross-platform graphical process/system monitor.
-* [dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,232 | 🐛 0 | 🌐 Rust | 📅 2026-09-07 - View disk space usage and delete unwanted data, fast.
-* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,816 | 🐛 13 | 🌐 Rust | 📅 2026-08-25 - Hackable, minimal, and fast TUI file explorer.
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,006 | 🐛 107 | 🌐 Rust | 📅 2026-09-08 - Cross-platform graphical process/system monitor.
+* [dua-cli](https://github.com/Byron/dua-cli) ⭐ 6,238 | 🐛 0 | 🌐 Rust | 📅 2026-09-09 - View disk space usage and delete unwanted data, fast.
+* [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,820 | 🐛 13 | 🌐 Rust | 📅 2026-08-25 - Hackable, minimal, and fast TUI file explorer.
 * [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,049 | 🐛 40 | 🌐 Rust | 📅 2026-09-02 - Cross-platform monitoring tool for system stats.
 * [kmon](https://github.com/orhun/kmon) ⭐ 2,945 | 🐛 23 | 🌐 Rust | 📅 2026-07-31 - Linux Kernel Manager and Activity Monitor.
-* [bpftop](https://github.com/Netflix/bpftop) ⭐ 2,702 | 🐛 5 | 🌐 C | 📅 2026-09-01 - Dynamic real-time view of running eBPF programs.
-* [kdash](https://github.com/kdash-rs/kdash) ⭐ 2,531 | 🐛 1 | 🌐 Rust | 📅 2026-09-03 - A simple and fast dashboard for Kubernetes.
-* [caligula](https://github.com/ifd3f/caligula) ⭐ 2,301 | 🐛 53 | 🌐 Rust | 📅 2026-08-27 - A user-friendly, lightweight TUI for disk imaging.
+* [bpftop](https://github.com/Netflix/bpftop) ⭐ 2,703 | 🐛 5 | 🌐 C | 📅 2026-09-01 - Dynamic real-time view of running eBPF programs.
+* [kdash](https://github.com/kdash-rs/kdash) ⭐ 2,532 | 🐛 3 | 🌐 Rust | 📅 2026-09-09 - A simple and fast dashboard for Kubernetes.
+* [caligula](https://github.com/ifd3f/caligula) ⭐ 2,306 | 🐛 53 | 🌐 Rust | 📅 2026-09-09 - A user-friendly, lightweight TUI for disk imaging.
 * [ytop](https://github.com/cjbassi/ytop) ⚠️ Archived - TUI system monitor for Linux.
-* [systemctl-tui](https://github.com/rgwood/systemctl-tui) ⭐ 2,051 | 🐛 6 | 🌐 Rust | 📅 2026-07-27 - A fast, simple TUI for interacting with systemd services and their logs.
-* [macmon](https://github.com/vladkens/macmon) ⭐ 1,871 | 🐛 15 | 🌐 Rust | 📅 2026-08-04 - Sudoless performance monitoring for Apple Silicon processors.
-* [oxker](https://github.com/mrjackwills/oxker) ⭐ 1,831 | 🐛 23 | 🌐 Rust | 📅 2026-08-22 - Simple TUI to view & control Docker containers.
-* [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) ⭐ 1,577 | 🐛 5 | 🌐 Rust | 📅 2026-08-03 - A program for managing systemd services through a TUI.
-* [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) ⭐ 1,558 | 🐛 20 | 🌐 Rust | 📅 2026-09-07 - A TUI to manage multiple kubectl port-forward commands, with support for UDP and Kubernetes proxy.
+* [systemctl-tui](https://github.com/rgwood/systemctl-tui) ⭐ 2,052 | 🐛 6 | 🌐 Rust | 📅 2026-07-27 - A fast, simple TUI for interacting with systemd services and their logs.
+* [macmon](https://github.com/vladkens/macmon) ⭐ 1,872 | 🐛 15 | 🌐 Rust | 📅 2026-08-04 - Sudoless performance monitoring for Apple Silicon processors.
+* [oxker](https://github.com/mrjackwills/oxker) ⭐ 1,832 | 🐛 23 | 🌐 Rust | 📅 2026-08-22 - Simple TUI to view & control Docker containers.
+* [systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) ⭐ 1,576 | 🐛 5 | 🌐 Rust | 📅 2026-08-03 - A program for managing systemd services through a TUI.
+* [kftui](https://github.com/hcavarsan/kftray/blob/main/README.md#kftui) ⭐ 1,559 | 🐛 3 | 🌐 Rust | 📅 2026-09-09 - A TUI to manage multiple kubectl port-forward commands, with support for UDP and Kubernetes proxy.
 * [systeroid](https://github.com/orhun/systeroid) ⭐ 1,468 | 🐛 17 | 🌐 Rust | 📅 2026-07-30 - A more powerful alternative to sysctl(8) with a terminal user interface.
-* [ducker](https://github.com/robertpsoane/ducker) ⭐ 925 | 🐛 15 | 🌐 Rust | 📅 2026-08-03 - A terminal app for managing Docker containers, inspired by K9s.
-* [lazyrsync](https://github.com/westpoint-io/lazyrsync) ⭐ 751 | 🐛 0 | 🌐 Rust | 📅 2026-08-10 - A TUI for rsync: reusable profiles, a dry-run diff preview, and live run progress.
-* [purple](https://github.com/erickochen/purple) ⭐ 676 | 🐛 6 | 🌐 Rust | 📅 2026-09-07 - TUI SSH config manager & launcher with fuzzy search, tags, cloud provider sync, tunnels and command snippets for server management.
+* [ducker](https://github.com/robertpsoane/ducker) ⭐ 926 | 🐛 15 | 🌐 Rust | 📅 2026-08-03 - A terminal app for managing Docker containers, inspired by K9s.
+* [lazyrsync](https://github.com/westpoint-io/lazyrsync) ⭐ 756 | 🐛 1 | 🌐 Rust | 📅 2026-08-10 - A TUI for rsync: reusable profiles, a dry-run diff preview, and live run progress.
+* [purple](https://github.com/erickochen/purple) ⭐ 678 | 🐛 6 | 🌐 Rust | 📅 2026-09-08 - TUI SSH config manager & launcher with fuzzy search, tags, cloud provider sync, tunnels and command snippets for server management.
 * [kubetui](https://github.com/sarub0b0/kubetui) ⭐ 393 | 🐛 12 | 🌐 Rust | 📅 2026-09-07 - TUI for real-time monitoring of Kubernetes resources.
 * [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) ⭐ 355 | 🐛 12 | 🌐 Rust | 📅 2026-09-06 - A TUI for controlling and monitoring Framework Computers hardware.
 * [logss](https://github.com/todoesverso/logss) ⭐ 297 | 🐛 3 | 🌐 Rust | 📅 2026-06-08 - A simple cli for logs splitting.
@@ -513,8 +513,8 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 * [winproc-tui](https://github.com/TX230/winproc-tui) ⭐ 116 | 🐛 0 | 🌐 Rust | 📅 2026-09-06 - Process monitoring tool with live metrics, time-series graphs, A/B comparison.
 * [slurmer](https://github.com/wjwei-handsome/Slurmer) ⭐ 110 | 🐛 13 | 🌐 Rust | 📅 2025-11-24 - A TUI for monitoring and managing SLURM jobs.
 * [qmassa!](https://github.com/ulissesf/qmassa) ⭐ 108 | 🐛 0 | 🌐 Rust | 📅 2026-08-28 - Displays GPU devices usage stats on Linux.
-* [b4n](https://github.com/fioletoven/b4n) ⭐ 104 | 🐛 0 | 🌐 Rust | 📅 2026-09-07 - A terminal-based tool for browsing Kubernetes resources.
-* [quokka](https://github.com/dutradotdev/quokka) ⭐ 99 | 🐛 2 | 🌐 Rust | 📅 2026-07-27 - A TUI to inspect and tidy a USB-connected iPhone from macOS: storage, apps, media, syslog viewer.
+* [b4n](https://github.com/fioletoven/b4n) ⭐ 104 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A terminal-based tool for browsing Kubernetes resources.
+* [quokka](https://github.com/dutradotdev/quokka) ⭐ 101 | 🐛 2 | 🌐 Rust | 📅 2026-07-27 - A TUI to inspect and tidy a USB-connected iPhone from macOS: storage, apps, media, syslog viewer.
 * [reeve](https://github.com/yetidevworks/reeve) ⭐ 85 | 🐛 0 | 🌐 Rust | 📅 2026-09-03 - Manages a local web stack as per-user services: Caddy, Apache or nginx, per-vhost PHP-FPM versions, databases, local SSL, and wildcard DNS.
 * [tegratop](https://github.com/pythops/tegratop) ⭐ 85 | 🐛 1 | 🌐 Rust | 📅 2025-12-14 - TUI monitoring tool (top like) for Nvidia jetson boards.
 * [lazyslurm](https://github.com/hill/lazyslurm) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-08-09 - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
@@ -533,20 +533,20 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 📟 Embedded
 
 * [Tuitar](https://github.com/orhun/tuitar) ⭐ 528 | 🐛 6 | 🌐 Rust | 📅 2025-12-23 - A portable guitar training tool.
-* [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-09-08 - A minimal serial monitor with plotter TUI.
+* [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-09-09 - A minimal serial monitor with plotter TUI.
 * [Phone-OS](https://github.com/Julien-cpsn/Phone-OS) ⭐ 45 | 🐛 1 | 🌐 Rust | 📅 2025-09-06 - A modern Phone OS for ESP32 CYD (Cheap Yellow Display).
-* [MTUI](https://github.com/inowattio/mtui) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-09-07 - A very feature-rich Modbus Client.
+* [MTUI](https://github.com/inowattio/mtui) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-09-09 - A very feature-rich Modbus Client.
 * [Mnyaoo32](https://github.com/intuis/mnyaoo32) ⭐ 35 | 🐛 1 | 🌐 Rust | 📅 2025-05-10 - An eccentric way to consume IRC messages using ESP32.
 
 ### 🌌 Other
 
-* [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,963 | 🐛 12 | 🌐 Rust | 📅 2026-09-07 - A TUI screensaver that visualizes Git commit history in your terminal.
+* [gitlogue](https://github.com/unhappychoice/gitlogue) ⭐ 4,967 | 🐛 13 | 🌐 Rust | 📅 2026-09-09 - A TUI screensaver that visualizes Git commit history in your terminal.
 * [doxx](https://github.com/bgreenwell/doxx) ⭐ 3,748 | 🐛 8 | 🌐 Rust | 📅 2026-08-10 - Document viewer for Microsoft Word files.
 * [lemurs](https://github.com/coastalwhite/lemurs) ⭐ 1,356 | 🐛 80 | 🌐 Rust | 📅 2026-06-28 - A customizable TUI login manager for Linux and BSD.
 * [hwatch](https://github.com/blacknon/hwatch) ⭐ 1,077 | 🐛 10 | 🌐 Rust | 📅 2026-08-30 - Alternative watch command with command history and diffs.
 * [nyaa](https://github.com/Beastwick18/nyaa) ⭐ 694 | 🐛 16 | 🌐 Rust | 📅 2026-02-28 - A nyaa.si tui tool for browsing and downloading torrents.
 * [ttysvr](https://github.com/cxreiff/ttysvr) ⭐ 489 | 🐛 4 | 🌐 Rust | 📅 2026-07-04 - Screen saver for your terminal.
-* [tgv](https://github.com/zeqianli/tgv) ⭐ 484 | 🐛 13 | 🌐 Rust | 📅 2026-09-07 - Explore human genomes in the terminal.
+* [tgv](https://github.com/zeqianli/tgv) ⭐ 483 | 🐛 13 | 🌐 Rust | 📅 2026-09-07 - Explore human genomes in the terminal.
 * [cotp](https://github.com/replydev/cotp) ⭐ 383 | 🐛 6 | 🌐 Rust | 📅 2026-08-25 - Command-line TOTP/HOTP authenticator app.
 * [tracker](https://github.com/ShenMian/tracker) ⭐ 316 | 🐛 1 | 🌐 Rust | 📅 2026-07-05 - A terminal-based real-time satellite tracking and orbit prediction application.
 * [poketex](https://github.com/ckaznable/poketex) ⭐ 218 | 🐛 1 | 🌐 Rust | 📅 2026-05-05 - Simple Pokedex based on TUI.
@@ -575,4 +575,4 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
